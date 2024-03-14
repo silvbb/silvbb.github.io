@@ -3,7 +3,8 @@
         <title>我的全新 Hugo 网站</title>
         <link>http://example.org/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 14 Mar 2024 23:41:44 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cfeihong@gmail.com (铁骑)</managingEditor>
+            <webMaster>cfeihong@gmail.com (铁骑)</webMaster><lastBuildDate>Thu, 14 Mar 2024 23:41:44 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
