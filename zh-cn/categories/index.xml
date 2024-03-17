@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - 分类 - LoveIt</title>
+        <title>Categories - 分类 - 杰维智能</title>
         <link>https://jxhugo.jwisdom.cn/zh-cn/categories/</link>
-        <description>Categories - 分类 - LoveIt</description>
+        <description>Categories - 分类 - 杰维智能</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cfeihong@gmail.com (铁骑Filiron)</managingEditor>
             <webMaster>cfeihong@gmail.com (铁骑Filiron)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://jxhugo.jwisdom.cn/zh-cn/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
