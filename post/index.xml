@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 杰维智能</title>
+    <title>Posts on LoveIt</title>
     <link>https://jxhugo.jwisdom.cn/post/</link>
-    <description>Recent content in Posts on 杰维智能</description>
+    <description>Recent content in Posts on LoveIt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <managingEditor>cfeihong@gmail.com (铁骑)</managingEditor>
-    <webMaster>cfeihong@gmail.com (铁骑)</webMaster>
+    <language>en</language>
+    <managingEditor>cfeihong@gmail.com (铁骑Filiron)</managingEditor>
+    <webMaster>cfeihong@gmail.com (铁骑Filiron)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 14 Mar 2024 23:41:44 +0800</lastBuildDate>
     <atom:link href="https://jxhugo.jwisdom.cn/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第二篇测试博客</title>
       <link>https://jxhugo.jwisdom.cn/post/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Thu, 14 Mar 2024 23:41:44 +0800</pubDate><author>cfeihong@gmail.com (铁骑)</author>
+      <pubDate>Thu, 14 Mar 2024 23:41:44 +0800</pubDate><author>cfeihong@gmail.com (铁骑Filiron)</author>
       <guid>https://jxhugo.jwisdom.cn/post/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>

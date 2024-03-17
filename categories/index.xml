@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - 杰维智能</title>
+        <title>Categories - Category - LoveIt</title>
         <link>https://jxhugo.jwisdom.cn/categories/</link>
-        <description>Categories - Category - 杰维智能</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cfeihong@gmail.com (铁骑)</managingEditor>
-            <webMaster>cfeihong@gmail.com (铁骑)</webMaster><lastBuildDate>Thu, 14 Mar 2024 04:38:44 &#43;0800</lastBuildDate><atom:link href="https://jxhugo.jwisdom.cn/categories/" rel="self" type="application/rss+xml" /><item>
+        <description>Categories - Category - LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>cfeihong@gmail.com (铁骑Filiron)</managingEditor>
+            <webMaster>cfeihong@gmail.com (铁骑Filiron)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Mar 2024 04:38:44 &#43;0800</lastBuildDate><atom:link href="https://jxhugo.jwisdom.cn/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Next.js</title>
     <link>https://jxhugo.jwisdom.cn/categories/next.js/</link>
     <pubDate>Thu, 14 Mar 2024 04:38:44 &#43;0800</pubDate>
-    <author>铁骑</author>
+    <author>铁骑Filiron</author>
     <guid>https://jxhugo.jwisdom.cn/categories/next.js/</guid>
     <description><![CDATA[]]></description>
 </item>
