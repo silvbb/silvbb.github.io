@@ -88,6 +88,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Categories"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    name = "关于"
+    # weight 参数可以看做菜单栏上各项的排序，越大的排在电脑网页的越右边
+    weight = 4
+    identifier = "about"
+    url = "/about/"
+    title = "About"
 
 [params]
   # site default theme ["auto", "light", "dark"]
