@@ -16,7 +16,7 @@ hero:
       text: 快速开始
       link: /categories/issues/index
     - theme: alt
-      text: 在 GitHub 查看
+      text: 在  GitHub  查看
       link: https://github.com/silvbb/silvbb.github.io
 
 features:
