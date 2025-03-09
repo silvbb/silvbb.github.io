@@ -1,7 +1,7 @@
 name: Deploy Pages
 
 on:
-  # 推送时执行
+  # 推送时执行1
   push:
     branches: [main, master]
   # pr 时执行
