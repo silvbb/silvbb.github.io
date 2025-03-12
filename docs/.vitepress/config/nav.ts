@@ -20,7 +20,7 @@ export const nav: DefaultTheme.Config["nav"] = [
         activeMatch: "/categories/tools/",
       },
       {
-        text: "Jxflow",
+        text: "JxFlow",
         link: "https://www.runninghub.cn/",
         activeMatch: "/categories/solutions/",
       },
