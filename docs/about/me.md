@@ -8,14 +8,14 @@ showComment: false
 
 <img width=100% src="../public/img/svg/about-me-header.svg" alt="头部图" />
 <p align="center">
-  <a href="https://blog.charles7c.top/" target="_blank" style="display: inline-block;">
+  <a href="https://silvbb.github.io/" target="_blank" style="display: inline-block;">
     <img alt="个人主页" src="https://img.shields.io/badge/知识库-铁骑-lightblue?logo=blogger&logoColor=lightblue" />
   </a>&nbsp;
-    <a href="https://github.com/Charles7c" target="_blank" style="display: inline-block;">
-        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-Charles7c-lightblue?logo=github" />
+    <a href="https://github.com/silvbb" target="_blank" style="display: inline-block;">
+        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-铁骑-lightblue?logo=github" />
     </a>&nbsp;
     <a href="https://gitee.com/Charles7c" target="_blank" style="display: inline-block;">
-        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-Charles7c-C71D23?logo=gitee&logoColor=C71D23" />
+        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-铁骑-C71D23?logo=gitee&logoColor=C71D23" />
     </a>&nbsp;
     <a href="https://blog.csdn.net/Charles_7c" target="_blank" style="display: inline-block;">
         <img alt="CSDN个人主页" src="https://img.shields.io/badge/CSDN-铁骑-FC5531?logo=C&logoColor=FC5531" />
@@ -30,10 +30,10 @@ showComment: false
 
 ---
 
-- 👋 Hi, I'm Charles7c
+- 👋 Hi, I'm JWisdom
 - 🔭 I'm currently working on backend development
-- 📫 How to reach me: [charles7c@126.com](mailto:charles7c@126.com)
-- 📖 My motto: “东隅已逝，桑榆非晚。”
+- 📫 How to reach me: [silvbb@gmail.com](mailto:silvbb@gmail.com)
+- 📖 My motto: “杰出 & 多维度 & 智能体”
 
 ---
 
