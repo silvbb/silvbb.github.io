@@ -6,8 +6,8 @@ titleTemplate: 技术知识库，全面AI时代即将来临!
 
 hero:
   name: JWisdom的智能体
-  text: 杰出 & 多维度 & 智能体
-  tagline: 技术知识库，全面AI时代即将来临!
+  text: 杰出 & 多维 & 智能体
+  tagline: 全面AI时代即将来临!
   image:
     src: /logo.png
     alt: Logo
