@@ -84,8 +84,8 @@ export const themeConfig: DefaultTheme.Config = {
   // 自定义扩展: 页脚配置
   footerConfig: {
     showFooter: true, // 是否显示页脚
-    icpRecordCode: "津ICP备2022005864号-2", // ICP备案号
-    publicSecurityRecordCode: "津公网安备12011202000677号", // 联网备案号
-    copyright: `Copyright © 2019-${new Date().getFullYear()} Charles7c`, // 版权信息
+    icpRecordCode: "湘ICP备2024001331号-5", // ICP备案号
+    publicSecurityRecordCode: "湘公网安备22031204000427号", // 联网备案号
+    copyright: `Copyright © 2024-${new Date().getFullYear()} JWisdom`, // 版权信息
   },
 };
