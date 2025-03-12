@@ -27,9 +27,9 @@ features:
   - icon:
       src: img/svg/insight.svg
     title: 多维度
-    details: "多维度思考是智能体最珍贵的礼物，它让我们超越了算法的局限。" -- 铁骑Filiron
+    details: "多维度思考是智能体最珍贵的礼物，它让我们超越了算法的局限。"
   - icon:
       src: img/svg/knowledge.svg
     title: 智能体
-    details: "智能体不只是回应命令，更是预见需求。" -- 铁骑Filiron
+    details: '> 智能体不只是回应命令，更是预见需求。" -- 达尔文
 ---
