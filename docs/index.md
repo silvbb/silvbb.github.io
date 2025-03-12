@@ -31,5 +31,5 @@ features:
   - icon:
       src: img/svg/knowledge.svg
     title: 智能体
-    details: '"智能体不只是回应命令，更是预见需求。" -- JWisdom'
+    details: "智能体不只是回应命令，更是预见需求。"
 ---
