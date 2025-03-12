@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: JWisdom杰维智能体的知识库
+title: JWisdom的智能体
 titleTemplate: 技术知识库，全面AI时代即将来临!
 
 hero:
-  name: JWisdom杰维智能体的知识库
+  name: JWisdom的智能体
   text: 杰出 & 多维度 & 智能体
   tagline: 技术知识库，全面AI时代即将来临!
   image:
