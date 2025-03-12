@@ -3,7 +3,7 @@ import { metaData } from "./constants";
 
 export const head: HeadConfig[] = [
   ["link", { rel: "icon", href: "/favicon.ico" }],
-  ["meta", { name: "author", content: "Charles7c" }],
+  ["meta", { name: "author", content: "JWisdom" }],
   [
     "meta",
     { name: "keywords", content: "铁骑的知识库, 知识库, 博客, DavidFiliron" },

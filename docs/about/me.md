@@ -14,7 +14,7 @@ showComment: false
     <a href="https://github.com/silvbb" target="_blank" style="display: inline-block;">
         <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-铁骑-lightblue?logo=github" />
     </a>&nbsp;
-    <a href="https://gitee.com/Charles7c" target="_blank" style="display: inline-block;">
+    <a href="https://gitee.com/silvbb" target="_blank" style="display: inline-block;">
         <img alt="码云个人主页" src="https://img.shields.io/badge/码云-铁骑-C71D23?logo=gitee&logoColor=C71D23" />
     </a>&nbsp;
     <a href="https://blog.csdn.net/Charles_7c" target="_blank" style="display: inline-block;">
