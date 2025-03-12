@@ -28,7 +28,7 @@ export const nav: DefaultTheme.Config["nav"] = [
     activeMatch: "/categories/",
   },
   {
-    text: "我的分类",
+    text: "我的知识库",
     items: [
       {
         text: "Bug万象集",
